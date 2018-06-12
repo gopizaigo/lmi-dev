@@ -1,0 +1,15 @@
+{
+  "name": "LMI",
+  "short_name": "LMI Dev",
+  "description": "First build of LMI PWA",  
+  "icons": [{
+    "src": "assets/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }],
+  "start_url": "index.html",
+  "display": "standalone",
+  
+  "background_color": "#ffffff",
+  "theme_color": "#673ab7"
+}
